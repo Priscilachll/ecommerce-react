@@ -1,0 +1,37 @@
+.navbar-container {
+    background-color: #fae8f6; 
+    color: rgb(0, 0, 0); 
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+.navbar-container img {
+    max-width: 100px;
+  }
+  
+.List-container {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+.List-container li {
+    margin-right: 10px;
+  }
+
+  .List-container button {
+    background-color: #b289f0; 
+    color: rgb(0, 0, 0); 
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+.List-container button:hover {
+    background-color: #f1f3d9; 
+  }
+  
+  body{
+    background-color: #fae8f6;
+  }
